@@ -1,0 +1,41 @@
+/* This is the stylesheet for notes.html */
+
+body {
+    min-width: 288px;
+    max-width: 768px;
+    margin: 96px 192px 96px 192px;
+    padding: 48px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.page-header {  
+    text-align: right; 
+}
+
+.header-content {
+    list-style-type: none;
+}
+
+.subject {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.main-topics { 
+    font-weight: bold;
+    list-style-type: upper-roman;
+}
+
+.sub-topics {
+    text-decoration: underline;
+    font-weight: normal;
+    list-style-type: lower-roman;
+}
+
+.notes {
+    text-decoration: none;
+    display: inline-block;
+    list-style-type: lower-alpha; 
+}
