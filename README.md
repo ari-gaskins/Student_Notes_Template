@@ -4,3 +4,4 @@ Want to add:
 - Ability to create new topics, subtopics, and notes items using specific indentations
 - page breaks and incremented page numbers
 - (CSS) create page outline and shadows
+- (Optional) could try turn the notes into a form that can be submitted and stored in database
